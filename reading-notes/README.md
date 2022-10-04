@@ -3,7 +3,8 @@
 ## *Code 201 Reading Notes*
 ### Reading: Class 1
 [Reading 1 - Notes](./class-01.md)
-### Reading: Class 2
+### Reading: Class 2  
+[Reading 2 - Notes](./class-02.md)
 ### Reading: Class 3
 ### Reading: Class 4
 ### Reading: Class 5
