@@ -17,9 +17,9 @@
 2.Why should we avoid using inline styles?  
 
 3.Review the block of code below and answer the following questions:  
-    1.What is representing the selector?  
-    2.Which components are the CSS declarations?  
-    3.Which components are considered properties?  
+&ensp;&ensp;&ensp;1.What is representing the selector?  
+&ensp;&ensp;&ensp;2.Which components are the CSS declarations?  
+&ensp;&ensp;&ensp;3.Which components are considered properties?  
 
 
 ## Learn JS  
