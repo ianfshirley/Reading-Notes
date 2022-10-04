@@ -24,7 +24,7 @@
 
 ## Miscellaneous<br>  
 
-### How to Start to Design a Website###<br>  
+### How to Start to Design a Website<br>  
 
 1.Knowing what you want it to do<br>  
 
