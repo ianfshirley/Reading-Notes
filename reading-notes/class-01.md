@@ -30,11 +30,11 @@
 
 2.what do i want to accomplish<br>  
 
-###Semantics  
+###Semantics<br>  
 1.because an h1 has meaning as well as being styled as a header  
-2.semantic tags convey data/meaning and not just presentation. it can help with SEO, accessibility and other things  
-###What is JavaScript?  
+2.semantic tags convey data/meaning and not just presentation. it can help with SEO, accessibility and other things<br>  
+###What is JavaScript?<br>  
 1.<br>  
-2.You can do it internally, writing the JS between two script tags, or you can do it externally with your JS on an external file and the code between the script tags will pull from the external JS file
+2.You can do it internally, writing the JS between two script tags, or you can do it externally with your JS on an external file and the code between the script tags will pull from the external JS file<br>
 
 
