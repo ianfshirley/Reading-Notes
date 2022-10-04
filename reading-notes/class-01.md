@@ -31,7 +31,7 @@
 2.what do i want to accomplish<br>  
 
 ###Semantics<br>  
-1.because an h1 has meaning as well as being styled as a header  
+1.because an h1 has meaning as well as being styled as a header<br>  
 2.semantic tags convey data/meaning and not just presentation. it can help with SEO, accessibility and other things<br>  
 ###What is JavaScript?<br>  
 1.<br>  
