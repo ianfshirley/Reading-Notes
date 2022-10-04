@@ -1,5 +1,6 @@
 **Getting Started**
-1.HTTP is basically the language that computers and servers use to communicate. (i'm not a poet)
+1.HTTP is basically the language that computers and servers use to communicate. (i'm not a poet)  
+
 2.HTML is parsed first, then CSS, then JS
 3.Do a google image search of images with Creative Commons Licenses
 4.A string is in quotes, and will show up as exactly what is in the quotation marks. A number is a number, no quotes.
