@@ -1,6 +1,6 @@
 # Reading-Notes
-Code Fellows Reading Notes
-## Code 201 Reading Notes
+<sub>Code Fellows Reading Notes</sub>
+## *Code 201 Reading Notes*
 ### Reading: Class 1
 ### Reading: Class 2
 ### Reading: Class 3
