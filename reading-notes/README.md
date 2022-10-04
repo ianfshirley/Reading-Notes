@@ -1,6 +1,7 @@
 # Reading-Notes
 <sub>Code Fellows Reading Notes</sub>
 ## *Code 201 Reading Notes*
+Take a look at [Article 2](./class-01.md) for more information.
 ### Reading: Class 1
 ### Reading: Class 2
 ### Reading: Class 3
