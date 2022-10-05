@@ -62,4 +62,14 @@
 ## Things I want to know more about
 I want to learn more about using arrays, loops, and conditional statements.
 
-I also need to learn how to list my sources properly
+### Sources
+[Ordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+[Unordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+[Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+[Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+[Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
+
+
