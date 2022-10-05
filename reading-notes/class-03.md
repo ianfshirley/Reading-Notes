@@ -61,3 +61,5 @@
 
 ## Things I want to know more about
 I want to learn more about using arrays, loops, and conditional statements.
+
+I also need to learn how to list my sources properly
