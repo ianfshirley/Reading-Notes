@@ -36,7 +36,13 @@
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];  
 
 3.List five shorthand operators for assignment in javascript and describe what they do.  
-&ensp;&ensp;
+&ensp;&ensp;-x += 1 is the same as x = x + 1  
+&ensp;&ensp;-x -= 1 is the same as x = x - 1  
+&ensp;&ensp;-x *= 1 is the same as x = x * 1   
+&ensp;&ensp;-x /= 1 is the same as x = x / 1   
+&ensp;&ensp;-x %= f() is the same as x = x % f()  
+
+
 4.Read the code below and evaluate the last expression and explain what the result would be and why.  
 &ensp;&ensp;
 
@@ -48,7 +54,10 @@
  (a + c) + b;  
 
 5.Describe a real world example of when a conditional statement should be used in a JavaScript program.  
-&ensp;&ensp;
+&ensp;&ensp;Bribing someone. "if you do this, you will get this"  
+
 6.Give an example of when a Loop is useful in JavaScript.  
-&ensp;&ensp;
+&ensp;&ensp;When you want to repeat a task many times  
+
 ## Things I want to know more about
+I want to learn more about using arrays, loops, and conditional statements.
