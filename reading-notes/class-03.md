@@ -15,6 +15,7 @@
 ### The Box Model  
 
 1.Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?  
+
 2.List and describe the four parts of an HTML elements box as referred to by the box model.  
 
 ## Learn JS  
