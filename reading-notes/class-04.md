@@ -43,6 +43,10 @@
 &ensp;&ensp;Greater efficiency - talking it out might lead you to solutions faster than thinking about it on your own. Also, with two sets of eyes the code is less likely to have errors that will require going over the code again later.  
 Job interview/work envinronment readiness - this type of work, as well as being able to explain your process and reasoning, will help you in interviews and when starting a new job
 
+## Things I want to know more about
+functions and pair programming
+
+
 ### Sources
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)  
 
