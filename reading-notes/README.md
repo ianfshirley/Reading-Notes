@@ -10,6 +10,7 @@
 ### Reading: Class 4
 [Reading 4 - Notes](./class-04.md)
 ### Reading: Class 5
+[Reading 5 - Notes](./class-05.md)
 ### Reading: Class 6
 ### Reading: Class 7
 ### Reading: Class 8
@@ -22,3 +23,4 @@
 ### Reading: Class 15
 
 ## Things I want to know more about
+loops, arrays, conditional statements
