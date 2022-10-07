@@ -36,7 +36,8 @@
 5.Describe two ways you could add spacing around the characters displayed in an h1 element.    
 &ensp;&ensp;line height, word spacing, letter spacing
 
-
+## Things I want to know more about
+Nothing specific, I just want more practice with CSS
 
 
 ### Sources
