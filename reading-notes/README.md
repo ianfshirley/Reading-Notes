@@ -12,6 +12,7 @@
 ### Reading: Class 5
 [Reading 5 - Notes](./class-05.md)
 ### Reading: Class 6
+[Reading 6 - Notes](./class-06.md)
 ### Reading: Class 7
 ### Reading: Class 8
 ### Reading: Class 9
