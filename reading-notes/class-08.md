@@ -14,10 +14,10 @@
 ## CSS Layout - Flexbox
 
 1.What are some advantages of using flexbox over float?  
-&ensp;&ensp;  
+&ensp;&ensp;It's easier to center a block of content inside its parent. Making columns adopt the same height even if the amount of content is different. Making all the children of a container take up the same amount of space regardless of the space available. 
 
 2.How does this topic connect with your long term goals?  
-&ensp;&ensp;  
+&ensp;&ensp;It connects pretty well. I actually enjoy working with CSS and designing the page layout.  
 
 
 ### Sources
