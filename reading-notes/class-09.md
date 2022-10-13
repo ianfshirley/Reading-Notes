@@ -7,11 +7,11 @@
 &ensp;&ensp;Keep it simple/make it easy for the user, only ask for the data you need.  
 
 3.List 5 form elements and explain their importance.
-&ensp;&ensp;* <form>  Container element that defines a form
-&ensp;&ensp;* <label>Caption or definition of a user input field     
-&ensp;&ensp;* <input>Single line text field. You can also set the 'type' of input to be just text, or to only accept an email address  
-&ensp;&ensp;* <textarea>Multi-line text field. Another difference between input & textarea is that input is a void element (it does not require a closing tag).  
-&ensp;&ensp;* <button>The button allows the user to send, or submit the form. There are three types: submit - (submits the form/sends the data); reset - (resets the form to start over); and button - (this does not do anything in html but its function can be defined using JS)  
+* <form>  Container element that defines a form
+* <label>Caption or definition of a user input field     
+* <input>Single line text field. You can also set the 'type' of input to be just text, or to only accept an email address  
+* <textarea>Multi-line text field. Another difference between input & textarea is that input is a void element (it does not require a closing tag).  
+* <button>The button allows the user to send, or submit the form. There are three types: submit - (submits the form/sends the data); reset - (resets the form to start over); and button - (this does not do anything in html but its function can be defined using JS)  
 
 ## Learn JS
 
