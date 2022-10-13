@@ -18,6 +18,7 @@
 ### Reading: Class 8
 [Reading 8 - Notes](./class-08.md)
 ### Reading: Class 9
+[Reading 9 - Notes](./class-09.md)
 ### Reading: Class 10
 ### Reading: Class 11
 ### Reading: Class 12
