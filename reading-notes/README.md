@@ -20,6 +20,7 @@
 ### Reading: Class 9
 [Reading 9 - Notes](./class-09.md)
 ### Reading: Class 10
+[Reading 10 - Notes](./class-10.md)
 ### Reading: Class 11
 ### Reading: Class 12
 ### Reading: Class 13
