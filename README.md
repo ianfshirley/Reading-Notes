@@ -22,6 +22,7 @@
 ### Reading: Class 10
 [Reading 10 - Notes](./class-10.md)
 ### Reading: Class 11
+[Reading 11 - Notes](./class-11.md)
 ### Reading: Class 12
 ### Reading: Class 13
 ### Reading: Class 14
