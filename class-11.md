@@ -33,17 +33,21 @@
 
 2.Define the following img attributes: 'scrset' and 'sizes'. Write an example of how they are used.  
 * 'srcset' is the set of sources that you give the browser to choose between dependent on screen size. 'sizes' indicates what size image to use for which screen size.  
-  
+
 3.How is 'srcset' more helpful for responsive images than CSS or JavaScript?  
 *  CSS only displays the same image at different sizes. 'srcset' give different images to use at different screen sizes/resolutions. This allows you to use the best quality image for each display type. 
 
 
 ### Sources
 
-[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
-[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)  
+
+[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
+
+[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)  
+
+[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)  
+
 [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 
