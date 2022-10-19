@@ -26,8 +26,9 @@
 ### Reading: Class 12
 [Reading 12 - Notes](./class-12.md)
 ### Reading: Class 13
+[Reading 13 - Notes](./class-13.md)
 ### Reading: Class 14
 ### Reading: Class 15
 
 ## Things I want to know more about
-loops, arrays, conditional statements
+loops, arrays, conditional statements, objects, constructors, prototypes, grid, chart, flexbox
