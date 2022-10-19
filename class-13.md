@@ -6,4 +6,10 @@
 2.What information should not be stored in local storage?  
 * Sensitive personal information  
 
-3.Local storage can store what type of data? How would you convert it to that type before storing?
+3.Local storage can store what type of data? How would you convert it to that type before storing?  
+* Strings. use JSON.stringify  
+
+
+### Sources 
+
+[Local Storage and How to Use It on Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
