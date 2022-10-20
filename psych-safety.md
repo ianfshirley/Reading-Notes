@@ -12,5 +12,6 @@ These two factors contribute to "a shared belief held by members of a team that 
 A very **very** short summary of what makes a team function well together: BE NICE. : )
 
 
-
-[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+### Sources
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  
+[Psychological Safety and Learning Behavior in Work Teams, Amy Edmondson, 1999](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf)
