@@ -28,10 +28,17 @@ Another example I'm looking forward to trying out is 'translate'. I'm hoping tha
 
 ### Sources
 
-[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
-[CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
-[8 Simple CSS3 Transitions That Will Wow Your Users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
-[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
-[6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)
-[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)  
+
+[CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)  
+
+[8 Simple CSS3 Transitions That Will Wow Your Users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)  
+
+[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
+
+[6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)  
+
+[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
+
+[404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
+
