@@ -28,7 +28,8 @@
 ### Reading: Class 13
 [Reading 13 - Notes](./class-13.md)
 ### Reading: Class 14
-[Reading 14 - Notes](./class-14.md)
+[Reading 14 - Notes](./class-14.md)  
+
 [Class 14 - Psychological Safety](./psych-safety.md)
 ### Reading: Class 15
 
