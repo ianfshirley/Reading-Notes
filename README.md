@@ -32,7 +32,7 @@
 
 [Class 14 - Psychological Safety](./Code%20201%20-%20Foundations%20of%20Software%20Development/psych-safety.md)
 
-
+## 
 ## Code 301 - Intermediate Software Development
 
 ### Reading: Class 1
