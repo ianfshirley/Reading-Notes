@@ -17,19 +17,24 @@
 - Encapsulated − A A component depicts the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
 
 - Independent − Components are designed to have minimal dependencies on other components.  
-[tutorialspoint.com](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)  
+[Source: tutorialspoint.com](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)  
 
-3.What are the advantages of using component-based architecture?  
+3.What are the advantages of using component-based architecture?    
+- Components break up the UI into smaller pieces that are easy to use and understand.
+- Being reusable saves time and effort, less lines of code to do the same thing. This also makes it easier to develop/build upon/maintain/evolve existing software without impacting other parts of the system.  
+- Being independent makes the connectivity between them more flexible.  
 
 
 ### What is Props and How to Use it in React
 
 1.What is “props” short for?  
+- It's a keyword in React meaning 'properties'.   
 
 2.How are props used in React?  
+- Used to pass data from one component to another.  
 
 3.What is the flow of props?  
-
+- One-way, parent to child (vs. in JavaScript it goes both ways, up & down, child to parent and/or child to parent )
 
 ### Sources
 [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)  
