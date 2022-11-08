@@ -14,13 +14,13 @@
 ### React State vs. Props
 
 1.What types of things can you pass in the props?  
-- <br>
+- Things that you pass into a function, how you want it to render. When you want to display information inside of a function without hard coding it. The things you pass into a class constructor.<br>
 2.What is the big difference between props and state?  
-- <br>
+- Props are handled outisde of the component and passed into it. State is handled inside the component.<br>
 3.When do we re-render our application?  
-- <br>
+- When the state is changed inside the application<br>
 4.What are some examples of things that we could store in state?  
-- <br>
+- When you need to re-render and update your application based on user input. Form elements is an example.<br>
 
 ### Sources
 [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)<br>
