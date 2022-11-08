@@ -3,13 +3,13 @@
 ### React Lifecycle
 
 1.Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?  
-- <br>
+- render happens first<br>
 2.What is the very first thing to happen in the lifecycle of React?  
-- <br>
+- Mounting is the first of three phases, the render phase is the first part of each of those three phases, and in the render part of the mounting phase, the constructor is what comes first.<br>
 3.Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates  
-- <br>
+- Constructor, render, componentDidMount, componentWillUnmount<br>
 4.What does componentDidMount do?  
-- <br>
+- I'm not totally clear on that even after reading that paragraph multiple times. It's a lifecycle method that gets invoked when a component is mounted (don't understand what mounting is either! I think it means updating the DOM with react).<br>
 
 ### React State vs. Props
 
