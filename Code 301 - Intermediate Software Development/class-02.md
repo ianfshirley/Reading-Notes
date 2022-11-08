@@ -1,0 +1,34 @@
+## State and Props
+
+### React Lifecycle
+
+1.Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?  
+- <br>
+2.What is the very first thing to happen in the lifecycle of React?  
+- <br>
+3.Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates  
+- <br>
+4.What does componentDidMount do?  
+- <br>
+
+### React State vs. Props
+
+1.What types of things can you pass in the props?  
+- <br>
+2.What is the big difference between props and state?  
+- <br>
+3.When do we re-render our application?  
+- <br>
+4.What are some examples of things that we could store in state?  
+- <br>
+
+### Sources
+[React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)<br>
+[React State vs. Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)<br>
+[React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)<br>
+[React Docs - handling events](https://reactjs.org/docs/handling-events.html)<br>
+[React Tutorial through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)<br>
+[React Bootstrap Documentation](https://react-bootstrap.github.io/)<br>
+[Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)<br>
+[Bootstrap Shuffle - a class "sandbox"](https://bootstrapshuffle.com/classes)<br>
+[Netlify](https://www.netlify.com/)<br>

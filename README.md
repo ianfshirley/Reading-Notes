@@ -41,5 +41,8 @@
 
 [Reading 1 - Introduction to React and Components](./Code%20301%20-%20Intermediate%20Software%20Development/class-01.md)
 
+### Reading: Class 2  
+[Reading 2 - State and Props](./Code%20301%20-%20Intermediate%20Software%20Development/class-02.md)
+
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, conditional statements, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~
