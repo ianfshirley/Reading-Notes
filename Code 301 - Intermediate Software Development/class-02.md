@@ -3,24 +3,32 @@
 ### React Lifecycle
 
 1.Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?  
-- render happens first<br>
+- render happens first  
+
 2.What is the very first thing to happen in the lifecycle of React?  
-- Mounting is the first of three phases, the render phase is the first part of each of those three phases, and in the render part of the mounting phase, the constructor is what comes first.<br>
+- Mounting is the first of three phases, the render phase is the first part of each of those three phases, and in the render part of the mounting phase, the constructor is what comes first.  
+
 3.Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates  
-- Constructor, render, componentDidMount, componentWillUnmount<br>
+- Constructor, render, componentDidMount, componentWillUnmount  
+
 4.What does componentDidMount do?  
-- I'm not totally clear on that even after reading that paragraph multiple times. It's a lifecycle method that gets invoked when a component is mounted (don't understand what mounting is either! I think it means updating the DOM with react).<br>
+- I'm not totally clear on that even after reading that paragraph multiple times. It's a lifecycle method that gets invoked when a component is mounted (don't understand what mounting is either! I think it means updating the DOM with react).  
+
 
 ### React State vs. Props
 
 1.What types of things can you pass in the props?  
-- Things that you pass into a function, how you want it to render. When you want to display information inside of a function without hard coding it. The things you pass into a class constructor.<br>
+- Things that you pass into a function, how you want it to render. When you want to display information inside of a function without hard coding it. The things you pass into a class constructor.  
+
 2.What is the big difference between props and state?  
-- Props are handled outisde of the component and passed into it. State is handled inside the component.<br>
+- Props are handled outisde of the component and passed into it. State is handled inside the component.  
+
 3.When do we re-render our application?  
-- When the state is changed inside the application<br>
+- When the state is changed inside the application  
+
 4.What are some examples of things that we could store in state?  
-- When you need to re-render and update your application based on user input. Form elements is an example.<br>
+- When you need to re-render and update your application based on user input. Form elements is an example.  
+
 
 ### Sources
 [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)<br>
