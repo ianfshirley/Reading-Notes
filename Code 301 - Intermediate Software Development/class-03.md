@@ -56,10 +56,10 @@
 - It updates the state of the component that it resides in, and because you sort of turn it into a props function, it allows you to update the state of another component from within another component.
 
 3.How can you pass a method from a parent component into a child component?  
-- I don't know. I watched the video 3 times and still don't know how to answer this question. It's late and I'm tired lol  
+- this.props.functionName
 
 4.How does the child component invoke a method that was passed to it from a parent component?  
-- I don't know. I watched the video 3 times and still don't know how to answer this question. It's late and I'm tired lol   
+- this.props.functionName(this.props.argument)  
 
 
 ### Sources
