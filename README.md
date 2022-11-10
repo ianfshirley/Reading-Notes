@@ -47,5 +47,8 @@
 ### Reading: Class 3  
 [Reading 3 - Passing Functions as Props](./Code%20301%20-%20Intermediate%20Software%20Development/class-03.md)
 
+### Reading: Class 4
+[Reading 4 - React and Forms](./Code%20301%20-%20Intermediate%20Software%20Development/class-04.md)
+
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
