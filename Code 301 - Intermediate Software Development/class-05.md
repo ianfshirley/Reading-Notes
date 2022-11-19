@@ -22,7 +22,8 @@
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 - It's a simplified arrow function with 'm' as a parameter and if 'm' > 'n'(the parameter for the greaterThan function), it will give a return value of true.
 3. Explain how either map or reduce operates, with regards to higher-order functions.
-- 
+- Map applies a function to each element in an existing array and returns the values in a new form.
+- Reduce takes a single value from the existing array and combines it with the current value (a parameter of the arr.reduce() function).
 
 ### Sources
 
