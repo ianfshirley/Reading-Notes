@@ -37,8 +37,8 @@
 
 ### Sources 
 
-[An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
-[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
-[Geocoding API Docs](https://locationiq.com/)
-[Axios docs](https://www.npmjs.com/package/axios)
+[An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)<br>
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)<br>
+[Geocoding API Docs](https://locationiq.com/)<br>
+[Axios docs](https://www.npmjs.com/package/axios)<br>
 [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
