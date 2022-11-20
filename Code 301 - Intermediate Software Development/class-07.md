@@ -19,9 +19,9 @@
 
 ### Sources
 
-[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-[How I explained REST to my brother](https://gist.github.com/brookr/5977550)
-[Geocoding API](https://locationiq.com/)
-[Weather Bit API](https://www.weatherbit.io/)
-[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)<br>
+[How I explained REST to my brother](https://gist.github.com/brookr/5977550)<br>
+[Geocoding API](https://locationiq.com/)<br>
+[Weather Bit API](https://www.weatherbit.io/)<br>
+[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)<br>
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
