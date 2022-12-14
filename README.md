@@ -177,5 +177,8 @@
 ### Reading: Class 30
 [Reading 30 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-30.md)
 
+### Command Line Notes
+[Notes from Command Line Tutorial](Command%20Line%20Notes.md)
+
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
