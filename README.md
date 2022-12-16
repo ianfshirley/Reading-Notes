@@ -180,7 +180,12 @@
 ## 
 ## *Command Line Notes*
 
-[Notes from Command Line Tutorial](Command%20Line%20Notes.md)
+[Notes from Command Line Tutorial](/Command%20Line%20Notes.md)
+
+## 
+## *Growth Mindset*
+
+[Notes About Growth Mindset](/Growth%20Mindset.md)
 
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
