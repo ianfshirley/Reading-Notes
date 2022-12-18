@@ -190,7 +190,7 @@
 ## 
 ## *Introduction to SQL*
 
-[Introduction to SQL](/Introduction%20to%20SQL)
+[Introduction to SQL](/Introduction%20to%20SQL.md)
 
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
