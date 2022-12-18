@@ -24,6 +24,7 @@ You can INSERT rows into a table, adding documents that match the schema of the 
 [Lesson 18](./img/sql18.png)<br>
 
 
-### Source
+### Sources
 
-[Learn SQL](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf?utm_referrer=https%3A%2F%2Flanding.chartio.com%2Fdownload-learn-sql)
+[Learn SQL](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf?utm_referrer=https%3A%2F%2Flanding.chartio.com%2Fdownload-learn-sql)<br>
+[SQL Bolt Tutorial](https://sqlbolt.com/)
