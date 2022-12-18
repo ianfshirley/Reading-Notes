@@ -187,5 +187,10 @@
 
 [Notes About Growth Mindset](/Growth%20Mindset.md)
 
+## 
+## *Introduction to SQL*
+
+[Introduction to SQL](/Introduction%20to%20SQL)
+
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
