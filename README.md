@@ -88,7 +88,7 @@
 ## *Code 401 - Advanced Software Development - Python*
 
 ### Reading: Class 1
-[Reading 1 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-01.md)
+[Reading 1 - Pain vs. Suffering / Big O Notation](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-01.md)
 
 ### Reading: Class 2
 [Reading 2 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-02.md)
