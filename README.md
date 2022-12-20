@@ -89,9 +89,11 @@
 
 ### Reading: Class 1
 [Reading 1 - Pain vs. Suffering / Big O Notation](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-01.md)
+[Prep: Data Structures and Algorithms](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/data-structures-and-algorithms.md)<br>
+[Prep: Engineering Readings](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/engineering-readings.md)<br>
 
 ### Reading: Class 2
-[Reading 2 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-02.md)
+[Reading 2 - Testing and Modules](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-02.md)
 
 ### Reading: Class 3
 [Reading 3 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-03.md)
