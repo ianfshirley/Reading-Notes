@@ -1,7 +1,7 @@
 # Reading-Notes
-<sub>Code Fellows Reading Notes</sub>
+### Code Fellows Reading Notes
 
-## 
+***
 ## *Code 201 - Foundations of Software Development*
 
 ### Reading: Class 1
@@ -35,7 +35,7 @@
 
 [Class 14 - Psychological Safety](./Code%20201%20-%20Foundations%20of%20Software%20Development/psych-safety.md)
 
-## 
+***
 ## *Code 301 - Intermediate Software Development*
 
 ### Reading: Class 1
@@ -84,7 +84,7 @@
 ### Reading: Class 15
 [Reading 15 - Authentication](./Code%20301%20-%20Intermediate%20Software%20Development/class-15.md)
 
-## 
+***
 ## *Code 401 - Advanced Software Development - Python*
 
 ### Reading: Class 1
@@ -179,20 +179,21 @@
 ### Reading: Class 30
 [Reading 30 - ](./Code%20401%20-%20Advanced%20Software%20Development%20-%20Python/class-30.md)
 
-## 
+***
 ## *Command Line Notes*
 
 [Notes from Command Line Tutorial](/Command%20Line%20Notes.md)
 
-## 
+***
 ## *Growth Mindset*
 
 [Notes About Growth Mindset](/Growth%20Mindset.md)
 
-## 
+***
 ## *Introduction to SQL*
 
 [Introduction to SQL](/Introduction%20to%20SQL.md)
 
+***
 ## Things I want to know more about
 ~~loops~~, ~~arrays~~, ~~conditional statements~~, objects, constructors, prototypes, local storage, CSS grid, CSS chart, ~~flexbox~~, react, bootstrap
