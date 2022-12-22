@@ -88,7 +88,7 @@
 ## *Code 401 - Advanced Software Development - Python*
 
 ### Reading: Class 1
-[Reading 1 - Pain vs. Suffering / Big O Notation](/Code-401/class-01.md)
+[Reading 1 - Pain vs. Suffering / Big O Notation](/Code-401/class-01.md)<br>
 [Prep: Data Structures and Algorithms](/Code-401/data-structures-and-algorithms.md)<br>
 [Prep: Engineering Readings](/Code-401/engineering-readings.md)<br>
 
