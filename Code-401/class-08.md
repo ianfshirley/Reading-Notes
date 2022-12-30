@@ -2,7 +2,10 @@
 
 ### List Comprehension
 
-
+- List comprehension is a powerful and concise method for creating lists in Python that becomes essential the more you work with lists, and lists of lists.
+- Syntax: my_new_list = [ expression for item in list ]
+- Example: squares = [x**2 for x in range(10)]
+  - this will create a new list called 'squares' that contains the values squared of each integer 0-9
 
 
 ### Sources
