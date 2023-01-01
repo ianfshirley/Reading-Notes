@@ -56,6 +56,20 @@
   - you havea a function with two parts, one is O(n), the other is O(n<sup>2</sup>)
   - this would not be O(n+n<sup>2</sup>), it would just be O(n<sup>2</sup>)
 
+### Dependency Injection
+
+- This is a technique whereby one object (or static method) supplies the dependencies of another object.
+- A dependency is an object that can be used (a service)
+- If class A uses some functionality of class B, then class A has a __dependency__ of class B
+- Three types:
+  - Constructor injection - dependencies provided thru class constructor
+  - Setter injection - client exposes a setter method that the injector uses to inject the dependency
+  - Interface injection - the dependency provides an injector method that will inject the dependency into any client passed to it. Clients must implement an interface that exposes a setter method that accepts the dependency
+- It is the dependency injection's responsibility to:
+  - Create the objects
+  - Know which classes require those objects
+  - provide the classes all of those objects
+
 ### Sources
 
 [How to Use the Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)<br>
