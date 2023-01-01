@@ -96,43 +96,40 @@
 [Reading 2 - Testing and Modules](/Code-401/class-01.md)
 
 ### Reading: Class 3
-[Reading 3 - ](/Code-401/class-01.md)
+[Reading 3 - File IO & Exceptions](/Code-401/class-01.md)
 
 ### Reading: Class 4
-[Reading 4 - ](/Code-401/class-01.md)
+[Reading 4 - Classes & Objects / Recursion](/Code-401/class-01.md)
 
 ### Reading: Class 5
-[Reading 5 - ](/Code-401/class-01.md)
+[Reading 5 - Linked Lists](/Code-401/class-01.md)
 
 ### Reading: Class 6
-[Reading 6 - ](/Code-401/class-01.md)
+[Reading 6 - Ten Thousand #1](/Code-401/class-01.md)
 
 ### Reading: Class 7
-[Reading 7 - ](/Code-401/class-01.md)
+[Reading 7 - Python Scope](/Code-401/class-01.md)
 
 ### Reading: Class 8
-[Reading 8 - ](/Code-401/class-01.md)
-
-### Reading: Class 9
-[Reading 9 - ](/Code-401/class-01.md)
+[Reading 8 - Ten Thousand #3](/Code-401/class-01.md)
 
 ### Reading: Class 10
-[Reading 10 - ](/Code-401/class-01.md)
+[Reading 10 - Stacks & Queues](/Code-401/class-01.md)
 
 ### Reading: Class 11
-[Reading 11 - ](/Code-401/class-01.md)
+[Reading 11 - Data Analysis](/Code-401/class-01.md)
 
 ### Reading: Class 12
-[Reading 12 - ](/Code-401/class-01.md)
+[Reading 12 - Pandas](/Code-401/class-01.md)
 
 ### Reading: Class 13
-[Reading 13 - ](/Code-401/class-01.md)
+[Reading 13 - Linear Regressions](/Code-401/class-01.md)
 
 ### Reading: Class 14
-[Reading 14 - ](/Code-401/class-01.md)
+[Reading 14 - Data Visualization](/Code-401/class-01.md)
 
 ### Reading: Class 15
-[Reading 15 - ](/Code-401/class-01.md)
+[Reading 15 - Implementation: Trees](/Code-401/class-01.md)
 
 ### Reading: Class 16
 [Reading 16 - ](/Code-401/class-01.md)
