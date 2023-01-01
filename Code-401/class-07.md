@@ -1,7 +1,10 @@
-## Reading Title/Topic
+## Python Scope
 
 
+- 
+
+### Big O Notation
 
 ### Sources
 
-[]()<br>
+[Python Scope](https://realpython.com/python-scope-legb-rule/)<br>
