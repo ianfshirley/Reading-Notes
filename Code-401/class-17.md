@@ -8,14 +8,22 @@
   - Make sure you are not downloading data at too rapid a rate because this may break the website. You may potentially be blocked from the site as well.
 - The first step is to figure out where to find the links to the files we want to download, within multiple levels of HTML tags
 
-### What is Web Scraping?
-
-- 
-
 ### How to Scrape Website Without Getting Blocked
 
-- 
-
+- Web scraping needs to be performed responsibly so that it does not have a detrimental effect on the sites being scraped.
+- Best practices:
+  - respect robots.txt
+    - it specifies rules for good behavior, such as how frequently you can scrape, which pages allow scraping and which don't
+  - crawl slowly, don't slam the website all at once
+  - don't follow the same crawling pattern
+  - make requests through proxies and rotate them as needed
+  - Rotate User Agents and corresponding HTTP Request Headers between requests
+  - Use a headless browser like Puppeteer, Selenium or Playwright
+  - Beware of Honey Pot Traps
+  - Check if Website is Changing Layouts
+  - Avoid scraping data behind a login
+  - Use Captcha Solving Services
+  - How can websites detect and block web scraping?
 
 ### Sources
 
