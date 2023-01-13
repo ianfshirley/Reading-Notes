@@ -12,14 +12,11 @@
 - shutil includes three functions for working with directory trees. To copy a directory from one place to another, use copytree(). It recurses through the source directory tree, copying files to the destination. The destination directory must not exist in advance.
 - The which() function scans a search path looking for a named file. The typical use case is to find an executable program on the shell’s search path defined in the environment variable PATH.
 
-
-
 ### Automation Ideas
 
 - automatically move files
 - automatically move folders and rename files
 - calculate compound interest
-
 
 
 ### Sources
