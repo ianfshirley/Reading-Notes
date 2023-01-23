@@ -26,8 +26,12 @@
 
 ### How Django Works Behind The Scenes
 
-- 
+- It's a Python-based web framwork. It's open source. New major releases every 9 months.
 
+- Django helps you write software that is:
+  - Complete | - Versatile
+  - Secure | - Scalable
+  - Maintainable | - Portable
 
 
 ### Sources
