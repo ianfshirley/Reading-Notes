@@ -18,7 +18,7 @@
 A hashtable is traditionally created from an array. 
 
 
-### What is a Hash Table? ~(video)~
+### What is a Hash Table? *(video)*
 
 - 
 
