@@ -26,7 +26,7 @@ A hashtable is traditionally created from an array. 1024 is a good length to min
   4. insert into the array at that index
 
   Example:
-  ![hash func ex.](img/hash-func-example.png)
+![hash func ex.](img/hash-func-example.png)
 
 - Collisions:
   - If two keys resolved to the same index, the two calls to `.Add(key, val` with different keys would overwrite each other.
